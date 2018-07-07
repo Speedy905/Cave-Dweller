@@ -15,7 +15,7 @@ I may or may not update the scripts in the future.
 Plot
 ----
 
-Quoted from the original [readme](project_cavedweller_read_me) file:
+Quoted from the original [readme](project_cavedweller_read_me.txt) file:
 
 " The end is nigh for DiCaprio the Bear, who has been welcomed home to a 
 invasion. His year's supply of hibernation food has been stolen leaving him 
