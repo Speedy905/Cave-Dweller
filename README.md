@@ -10,6 +10,7 @@ More info about the project can be found [here](https://sites.google.com/site/mr
 As with the project, we were also tasked to create a website to promote the game. The website can be found [here](https://sites.google.com/site/projectcaves/) 
 
 This has been uploaded here for archival reasons and is licensed under the MIT license. See the [license](LICENSE) file for more details.
+
 I may or may not update the scripts in the future. 
 
 Plot
